@@ -23,7 +23,7 @@ I implemented a modern management framework designed for speed and security:
 
 ```mermaid
 graph TD
-    A[New Hire Onboarded] --> B{Device Shipped}
+    A[New Hire Onboarded] --> B{Device Received}
     B --> C[User Unboxes & Powers On]
     C --> D[Windows Autopilot Handshake]
     D --> E[Entra ID Authentication]
@@ -31,7 +31,7 @@ graph TD
     F --> G[PowerShell Hydration Script]
     G --> H[BitLocker & Apps Installed]
     H --> I[99.8% Compliant Device]
-    I --> J[User Productive in 15 Mins]
+    I --> J[User ready to work in 60 Mins]
     
     style J fill:#10b981,stroke:#059669,stroke-width:2px,color:#fff
 ```
