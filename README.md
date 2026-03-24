@@ -40,7 +40,7 @@ graph TD
 
 | Metric | Legacy (Manual) | Post-Migration (Automated) | Strategic Value |
 | :--- | :--- | :--- | :--- |
-| **Onboarding Speed** | 4 Hours / Device | 15 Minutes | **93% Increase in Speed** |
+| **Onboarding Speed** | 4 Hours / Device | 1 Hour | **75% Increase in Speed** |
 | **Endpoint Compliance**| 65% (Inconsistent) | 99.8% (Enforced) | **Audit-Ready Status** |
 | **Hardware Costs** | High Capex | Optimized Opex | **30% Annual Savings** |
 
