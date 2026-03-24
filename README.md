@@ -1,7 +1,7 @@
 # Case Study: 1,000-User Enterprise Cloud Transformation
 
 **Role:** Cloud Infrastructure Lead / Systems Architect  
-**Org:** Geothermal Development Company  
+**Org:** Renewable Energy Company
 **Impact:** 99.8% Endpoint Compliance | Zero Downtime | 93% Onboarding Acceleration  
 
 ---
