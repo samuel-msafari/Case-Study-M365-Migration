@@ -21,6 +21,19 @@ I implemented a modern management framework designed for speed and security:
 2.  **Identity Consolidation:** Unified 1,000+ identities into **Entra ID**, enabling Single Sign-On (SSO) and Conditional Access across the SaaS stack.
 3.  **Data Integrity:** Orchestrated the migration of terabytes of data from local file shares to SharePoint and OneDrive with 0% data loss during cutover.
 
+graph TD
+    A[New Hire Onboarded] --> B{Device Shipped}
+    B --> C[User Unboxes & Powers On]
+    C --> D[Windows Autopilot Handshake]
+    D --> E[Entra ID Authentication]
+    E --> F[Intune Policy Sync]
+    F --> G[PowerShell Hydration Script]
+    G --> H[BitLocker & Apps Installed]
+    H --> I[99.8% Compliant Device]
+    I --> J[User Productive in 15 Mins]
+    
+    style J fill:#10b981,stroke:#059669,stroke-width:2px,color:#fff
+
 ## 📊 Results: Scaling for Growth
 
 | Metric | Legacy (Manual) | Post-Migration (Automated) | Strategic Value |
